@@ -1,0 +1,15 @@
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\bin\Debug\net6.0\Projectwawa.exe
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\bin\Debug\net6.0\Projectwawa.deps.json
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\bin\Debug\net6.0\Projectwawa.runtimeconfig.json
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\bin\Debug\net6.0\Projectwawa.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\bin\Debug\net6.0\Projectwawa.pdb
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.csproj.AssemblyReference.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.AssemblyInfoInputs.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.AssemblyInfo.cs
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.csproj.CoreCompileInputs.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\refint\Projectwawa.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.pdb
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\Projectwawa.genruntimeconfig.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wawa\Projectwawa\obj\Debug\net6.0\ref\Projectwawa.dll
