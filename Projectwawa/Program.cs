@@ -1,16 +1,6 @@
-﻿
-using System.Security.Cryptography.X509Certificates;
+ Console.WriteLine("Hello");
 
-public class Exercise1
-{
+ Console.WriteLine("Ebbe!");
+    
 
-    public static void Main()
-    {
-      
-        Console.WriteLine("Hello");
-
-        Console.WriteLine("Ebbe!");
-    }
-}
-
-
+Console.WriteLine("2 + 2 = {0}", 2+2);
