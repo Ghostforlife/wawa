@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majal\\OneDrive\\Skrivebord\\Programmering\\wawa\\Projectwawa\\Projectwawa.csproj": {}
+    "C:\\Users\\micha\\Documents\\GitHub\\MyNotes\\wawa\\Projectwawa\\Projectwawa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majal\\OneDrive\\Skrivebord\\Programmering\\wawa\\Projectwawa\\Projectwawa.csproj": {
+    "C:\\Users\\micha\\Documents\\GitHub\\MyNotes\\wawa\\Projectwawa\\Projectwawa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majal\\OneDrive\\Skrivebord\\Programmering\\wawa\\Projectwawa\\Projectwawa.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\MyNotes\\wawa\\Projectwawa\\Projectwawa.csproj",
         "projectName": "Projectwawa",
-        "projectPath": "C:\\Users\\majal\\OneDrive\\Skrivebord\\Programmering\\wawa\\Projectwawa\\Projectwawa.csproj",
-        "packagesPath": "C:\\Users\\majal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majal\\OneDrive\\Skrivebord\\Programmering\\wawa\\Projectwawa\\obj\\",
+        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\MyNotes\\wawa\\Projectwawa\\Projectwawa.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\MyNotes\\wawa\\Projectwawa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\majal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
