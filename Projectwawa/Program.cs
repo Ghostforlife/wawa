@@ -174,5 +174,18 @@ else if(temp<40)
 
 else if(temp>=40)
     Console.WriteLine("dont go out in the sun");
+
+opg 1 loop
+
 */
 
+int num;
+
+Console.Write("\n\n");
+Console.WriteLine("Input a number of values :");
+num=Convert.ToInt32(Console.ReadLine());
+
+for(int i = 0; i < num; i++) {
+    Console.WriteLine("Input a number :");
+    
+}
